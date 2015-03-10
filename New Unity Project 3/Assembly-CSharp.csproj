@@ -46,14 +46,16 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Lvl6Cube.cs" />
+     <Compile Include="Assets\RotateCube.cs" />
+     <Compile Include="Assets\newPlayerControll.cs" />
      <Compile Include="Assets\scripts\BoingControll.cs" />
      <Compile Include="Assets\scripts\ButtonPlattform.cs" />
      <Compile Include="Assets\scripts\CameraMovement.cs" />
      <Compile Include="Assets\scripts\LevelController.cs" />
      <Compile Include="Assets\scripts\NewLevel.cs" />
      <Compile Include="Assets\scripts\PlayerController.cs" />
-     <Compile Include="Assets\scripts\Sphere1Rotation.cs" />
+     <Compile Include="Assets\scripts\specificToLevels\Lvl6Cube.cs" />
+     <Compile Include="Assets\scripts\specificToLevels\Sphere1Rotation.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

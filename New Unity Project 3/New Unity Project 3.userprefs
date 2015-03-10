@@ -1,15 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Lvl6Cube.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ButtonPlattform.cs">
     <Files>
-      <File FileName="Assets\Lvl6Cube.cs" Line="27" Column="37" />
-      <File FileName="Assets\scripts\PlayerController.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\LevelController.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\ButtonPlattform.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\BoingControll.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\NewLevel.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\Sphere1Rotation.cs" Line="5" Column="1" />
-      <File FileName="Assets\scripts\CameraMovement.cs" Line="7" Column="26" />
+      <File FileName="Assets\scripts\ButtonPlattform.cs" Line="37" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
